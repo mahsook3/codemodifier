@@ -1,0 +1,151 @@
+{
+  "darkMode": true,
+  "color": "green-400",
+  "header": {
+      "headerTemplateID": "header3",
+      "companyName": "NearTreat",
+      "logoUrl": "https://demo.themesberg.com/landwind/images/logo.svg",
+      "menuItems": [
+          {"label": "Home", "link": "#"},
+          {"label": "About Us", "link": "#"},
+          {"label": "Features", "link": "#"},
+          {"label": "Blog", "link": "#"},
+          {"label": "Contact Us", "link": "#"}
+      ],
+      "actionButton": {"label": "Get started", "link": "#"}
+  },
+  "hero": {
+      "heroTemplateID": "hero1",
+      "topic": "Welcome to NearTreat!",
+      "title": "The Ultimate Solution for Street Food Lovers",
+      "para": "NearTreat helps you locate street food vendors, providing live location tracking and availability of recipes. Discover the best street food near you effortlessly.",
+      "buttons": [
+          {"text": "Watch Video", "link": "#"},
+          {"text": "Explore NearTreat", "link": "#"}
+      ],
+      "imageUrl": "https://demo.themesberg.com/landwind/images/hero.png"
+  },
+  "features": {
+      "featuresTemplateID": "features1",
+      "title": "Features That Delight",
+      "description": "Enhance your street food experience with advanced features",
+      "items": [
+          {
+              "iconClass": "fa-solid fa-utensils",
+              "bgColor": "bg-green-200",
+              "title": "Community of Food Lovers",
+              "description": "Join a community of fellow food enthusiasts who share your passion for street cuisine. Connect, share recommendations, and embark on gastronomic journeys together."
+          },
+          {
+              "iconClass": "fa-solid fa-map-marker-alt",
+              "bgColor": "bg-yellow-200",
+              "title": "Find Nearby Favorites",
+              "description": "Discover the best street food vendors in your vicinity. Our app uses GPS technology to help you find nearby favorites quickly."
+          },
+          {
+              "iconClass": "fa-solid fa-book-open",
+              "bgColor": "bg-blue-200",
+              "title": "Detailed Menu Information",
+              "description": "Get detailed information about the menus offered by street vendors, including ingredients, prices, and customer reviews."
+          },
+          {
+              "iconClass": "fa-solid fa-search",
+              "bgColor": "bg-red-200",
+              "title": "Search and Filter",
+              "description": "Easily search for specific dishes or cuisines, and apply filters to find exactly what you're craving."
+          },
+          {
+              "iconClass": "fa-solid fa-sync-alt",
+              "bgColor": "bg-purple-200",
+              "title": "Real-Time Convenience and Menu Magic",
+              "description": "Our advanced technology lets you track live locations and real-time menu updates, ensuring that you're always in the know about what's available."
+          },
+          {
+              "iconClass": "fa-solid fa-mobile-alt",
+              "bgColor": "bg-teal-200",
+              "title": "User-Friendly Interface",
+              "description": "Our user-friendly interface is designed to provide a seamless experience across all devices. Whether you're using your smartphone, tablet, or computer, NearTreat is your reliable companion on your street food journey."
+          }
+      ]
+  },
+  "products": {
+      "productsTemplateID": "products1",
+      "list": [
+          {
+              "imageSrc": "https://www.dropbox.com/s/mlor33hzk73rh0c/x14423.png?dl=1",
+              "title": "Soft Plushy Cushion Chair",
+              "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, incidunt!",
+              "price": "$29.99",
+              "bgColor": "bg-green-500",
+              "btnColor": "bg-purple-500"
+          },
+          {
+              "imageSrc": "https://www.dropbox.com/s/8ymeus1n9k9bhpd/y16625.png?dl=1",
+              "title": "Comfortable Wooden Chair",
+              "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, incidunt!",
+              "price": "$39.99",
+              "bgColor": "bg-teal-500",
+              "btnColor": "bg-teal-500"
+          },
+          {
+              "imageSrc": "https://www.dropbox.com/s/ykdro56f2qltxys/hh2774663-87776.png?dl=1",        
+              "title": "Multipurpose Wooden Trolley",
+              "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, incidunt!",
+              "price": "$19.99",
+              "bgColor": "bg-purple-500",
+              "btnColor": "bg-purple-500"
+          },
+          {
+              "imageSrc": "https://www.dropbox.com/s/1fav310i2eqkdz8/tool2.png?dl=1",
+              "title": "Comfortable Wooden Chair",
+              "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, incidunt!",
+              "price": "$39.99",
+              "bgColor": "bg-purple-500",
+              "btnColor": "bg-purple-500"
+          }
+      ]
+  },
+  "teamMembers": {
+      "teamMembersTemplateID": "teamMembers1",
+      "Members": [
+          {"name": "Peter Johnson", "imageUrl": "https://spacema-dev.com/elevate/assets/images/team/2.jpg", "role": "SEO Specialist"},
+          {"name": "Emily Brown", "imageUrl": "https://spacema-dev.com/elevate/assets/images/team/5.jpg", "role": "UX Designer"},
+          {"name": "Michael Davis", "imageUrl": "https://spacema-dev.com/elevate/assets/images/team/6.jpg", "role": "Frontend Developer"},
+          {"name": "Sarah Johnson", "imageUrl": "https://spacema-dev.com/elevate/assets/images/team/7.jpg", "role": "Content Writer"},
+          {"name": "David Wilson", "imageUrl": "https://spacema-dev.com/elevate/assets/images/team/8.jpg", "role": "Project Manager"},
+          {"name": "Jessica Brown", "imageUrl": "https://spacema-dev.com/elevate/assets/images/team/1.jpg", "role": "Marketing Specialist"}
+      ]
+  },
+  "callToAction": {
+      "callToActionTemplateID": "callToAction1",
+      "heading": "Ready to embark on a delicious journey?",
+      "subheading": "Download NearTreat today and start exploring the best street food around you!",   
+      "buttonText": "Get started",
+      "buttonText1": "Learn more"
+  },
+  "footer": {
+      "footerTemplateID": "footer1",
+      "companyName": "NearTreat",
+      "companyDescription1": "Discover the best street food near you with NearTreat. Your ultimate guide to local street cuisine.",
+      "companyDescription2": "Join a community of food lovers and find your favorite street food vendors easily.",
+      "contactsTitle": "Contacts",
+      "phoneLabel": "Phone:",
+      "phone": "850-123-5021",
+      "emailLabel": "Email:",
+      "email": "info@neartreat.com",
+      "addressLabel": "Address:",
+      "address": "312 Lovely Street, NY",
+      "socialTitle": "Social",
+      "socialDescription": "Follow us on social media to stay updated with the latest street food trends.",
+      "copyright": "© Copyright 2024 NearTreat. All rights reserved.",
+      "faq": "F.A.Q",
+      "privacyPolicy": "Privacy Policy",
+      "termsAndConditions": "Terms & Conditions",
+      "icons": {
+          "company": "fa-solid fa-utensils",
+          "twitter": "fa-brands fa-twitter",
+          "instagram": "fa-brands fa-instagram",
+          "facebook": "fa-brands fa-facebook"
+      }
+  }
+}
