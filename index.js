@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 app.post("/generate", async (req, res) => {
   const { html, company, goal, keywords, color } = req.body;
 
-  const prompt = `Rewrite a given HTML code to have content that promotes ${company} as a solution for ${goal}. The content should include the following keywords: ${keywords}: ${html}
+  const prompt = `Rewrite a given HTML code to have content that promotes ${company} as a solution for ${goal}. The content should include the following keywords: ${keywords} and theme should match with ${color} like bg-[${color}] or text-bg-[${color}] if required also replace icon with fontawesome.com icons : ${html}
   `;
 
   try {
